@@ -1,9 +1,11 @@
-# amm
+# Airline Media Monitor
+
+A simple Airline Media Monitor (AMM) to crawl the websites of United Airlines Newsroom, British Airways Media Centre and China Aviation Daily and send the consolidated result to a specified email address.
 
 Usage:
 
 ```shell
-bash amm.sh
+bash amm.sh myemail@example.com
 ```
 
-Then go to your email address to receive the contents.
+Then login your email "myemail@example.com" to receive the contents.
