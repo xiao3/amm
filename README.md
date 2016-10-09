@@ -5,7 +5,7 @@ A simple Airline Media Monitor (AMM) to crawl the most recent news from websites
 Usage:
 
 ```shell
-bash amm.sh myemail@example.com
+$ bash amm.sh myemail@example.com
 ```
 
 Then login your email "myemail@example.com" to receive the contents.
