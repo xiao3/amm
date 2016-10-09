@@ -1,6 +1,6 @@
 # Airline Media Monitor
 
-A simple Airline Media Monitor (AMM) to crawl the websites of United Airlines Newsroom, British Airways Media Centre and China Aviation Daily and send the consolidated result to a specified email address.
+A simple Airline Media Monitor (AMM) to crawl the websites of United Airlines Newsroom, British Airways Media Centre and China Aviation Daily, and then send the consolidated plain text result to a specified email address.
 
 Usage:
 
