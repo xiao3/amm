@@ -9,3 +9,7 @@ bash amm.sh myemail@example.com
 ```
 
 Then login your email "myemail@example.com" to receive the contents.
+
+
+Example of the received email:
+![](img/Capture_amm_email.JPG)
