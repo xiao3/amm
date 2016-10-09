@@ -5,10 +5,10 @@
 #############################
 
 #para
-#revise the "12 hours" to adjust with your own time zone if it is different with server.
-current_time=$(date -d "12 hours" +%Y%m%d-%X)
-#replace the "chuck.wang@live.cn" with your own email address to receive the media contents.
-email_list="chuck.wang@live.cn"
+email_list=$1
+#revise the "0 hours" to adjust with your own time zone if it is different with server.
+current_time=$(date -d "0 hours" +%Y%m%d-%X)
+
 
 #############################
 
